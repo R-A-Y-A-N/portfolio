@@ -1,0 +1,35 @@
+{
+  "Header": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+   "Hero": {
+    "name": "HAMENNI Rayan",
+    "greeting": "Hola, soy",
+    "job": "Ingeniero de Software",
+    "description": "Creo soluciones digitales elegantes y de alto rendimiento con especial atención a los detalles y la experiencia del usuario.",
+    "seeProjects": "Ver mis proyectos",
+    "contactMe": "Contáctame"
+  },
+  "About": {
+    "phrase1": " Graduado de la Universidad de Béjaïa, soy un apasionado del desarrollo de software y la inteligencia artificial, con un gran deseo de aportar soluciones innovadoras y eficientes.",
+    "phrase2": " Domino varios frameworks y tecnologías, y tengo la capacidad de adaptarme rápidamente a nuevos entornos técnicos.",
+    "phrase3": " Curioso y motivado, busco constantemente ampliar mis habilidades y transformar las ideas en proyectos concretos de alto valor.",
+     "phrase4": "Descargar mi CV",
+      "phrase5": "Sobre Mí"
+  },
+  "Skills": {
+    "title": "Mis Habilidades",
+      "phrase": "Tecnologías y herramientas que utilizo para crear soluciones eficientes y escalables"
+    },
+    "contact": {
+  "phrase1": "HAMENNI RAYAN",
+  "phrase2": "Contáctame",
+  "phrase3": "Tu socio digital de confianza.",
+  "phrase4": "Desarrollador Fullstack"
+}
+
+}

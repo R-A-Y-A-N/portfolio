@@ -1,0 +1,56 @@
+{
+  "Header": {
+    "home": "Agejdan",
+    "about": "Γef fell-awen",
+    "skills": "Tazmert",
+    "projects": "Isenfaṛen",
+    "contact": "Nermes"
+  },
+  "Hero": {
+    "name": "HAMENNI Rayan",
+    "greeting": "Azul, nekki d",
+    "job": "Anas iɣerrez n uselkim",
+    "description": "Nesnulfuɣ iferdisen umḍanen s tugna d tazmert, yettuḥeggren i tferkiwin n useqdac.",
+    "seeProjects": "Wali isnfaṛ-iw",
+    "contactMe": "Nermes-iyi"
+  },
+  "About": {
+    
+    "phrase1":  "Ad yessineɣ seg Tmesɣida n Vgayet, ḥemmleɣ aṭas asnefli n iseɣẓanen d tuɣda n tmelellit tawurmant.",
+    "phrase2": "Xedmeɣ d ddeqs n yiframeworks, yerna ɣur-i tazmert ad nḥulfu d ssin i yitechnologies imaynuten s leḥwaq.",
+    "phrase3": "Iswiw-iw d ad snulfuy tifratin timaynutin d timɛullayin i yesɛan lqem n iseqdacen d tkebbwanin.",
+     "phrase4": "Sider-d tasertit-iw n tmedyazt",
+      "phrase5": "Γef-iw"
+    
+  },
+  "Skills": {
+   "title": "Tazmert-iw",
+      "phrase": "Tatiknulujiyin d ifecka i seqdecɣ ad rnuɣ tifraten igerrzen yerna izmiren ad d-nernun"
+    },
+    "contact": {
+  "phrase1": "HAMENNI RAYAN",
+  "phrase2": "Nermes-iyi",
+  "phrase3": "Ammḍan-ik n dijital yettwaman.",
+  "phrase4": "Aneflay Fullstack"
+},
+"projects": { 
+  "title": "Isenfaɣen-iw",
+  "phrase1": "Tafrara n yixeddamen-inu n melmi kan, id yedduklen deg ufeṣṣel amellal akked timellit n tneflit.",
+  "phrase2": "Demo",
+  "phrase3": "Code",
+
+  "title1": "Asefru n tuzzna – General Emballage",
+  "description1": "Asnas Web i usefru n tuzzna i yezmer ad isfeḍ uḍrisen, tiktiyin, ifarisen akked yipalatin.",
+
+  "title2": "Asefru n tsusniwin – Taddart n usnimer",
+  "description2": "Asnas Web i usefru awurman n tsusniwin, i yettmerna ad isɣewer imnayen s tmeddit, ad ibeddu texxamin, ad isefk asekcam n yilmidan akked aḍfaṛ n ikrimen.",
+
+  "title3": "Asmel n uskan – Kussor Immobilière",
+  "description3": "Asmel n uskan aḥerfi, fessus, i yimendad Kussor Immobilière, i yesskan imhalin n umeẓlu akked telɣut n unermis.",
+
+  "title4": "AI Meeting Summarizer",
+  "description4": "Asnas Web ameẓyan i yuraren ad yexdem aṛtas n temliliwin, ad d-yessuffuṭ tusqilt tawurmant, askesum afessas, akked tebdart n tmeddit i teskelsen teryaṭ n tneflit. [anida tella]"
+}
+
+
+}

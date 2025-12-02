@@ -1,0 +1,56 @@
+{
+  "Header": {
+    "home": "Home",
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "Hero": {
+    "name": "HAMENNI Rayan",
+    "greeting": "Hello, I am",
+    "job": "Software Engineer",
+    "description": "I create elegant and high-performance digital solutions with special attention to details and user experience.",
+    "seeProjects": "See my projects",
+    "contactMe": "Contact me"
+  },
+  "About": {
+    "phrase1": " Graduate of the University of Béjaïa, I am passionate about software development and artificial intelligence, with a strong drive to deliver innovative and efficient solutions.",
+    "phrase2": " I am proficient in several frameworks and technologies, and I can quickly adapt to new technical environments.",
+    "phrase3": " Curious and motivated, I constantly strive to expand my skills and turn ideas into impactful, high-value projects.",
+     "phrase4": "Download my CV",
+      "phrase5": "About Me"
+
+  },
+  "Skills": {
+    "title": "My Skills",
+      "phrase": "Technologies and tools I use to build efficient and scalable solutions"
+    },
+    "contact": {
+  "phrase1": "HAMENNI RAYAN",
+  "phrase2": "Contact Me",
+  "phrase3": "Your trusted digital partner.",
+  "phrase4": "Fullstack Developer"
+},
+"projects": { 
+  "title": "My Projects",
+  "phrase1": "A selection of my recent work, combining elegant design with strong technical performance.",
+  "phrase2": "Demo",
+  "phrase3": "Code",
+
+  "title1": "Shipping Management – General Emballage",
+  "description1": "A web application for managing shipping, allowing tracking of orders, trucks, products, and pallets.",
+
+  "title2": "Thesis Defense Management – University",
+  "description2": "A web application for automatic management of thesis defenses, enabling smart jury scheduling, room assignment, student management, and timeslot tracking.",
+
+  "title3": "Showcase Website – Kussor Real Estate",
+  "description3": "A simple and professional showcase website for the Kussor Real Estate agency, presenting their services and contact information.",
+
+  "title4": "AI Meeting Summarizer",
+  "description4": "An intelligent web application that records meetings, generates automatic transcription, clear summaries, and AI-generated task lists. [in progress]"
+}
+
+
+
+}

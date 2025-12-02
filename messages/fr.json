@@ -1,0 +1,57 @@
+{
+  "Header": {
+    "home": "Accueil",
+    "about": "À Propos",
+    "skills": "Compétences",
+    "projects": "Projets",
+    "contact": "Contact"
+  },
+
+
+  "Hero": {
+    "name": "HAMENNI Rayan",
+    "greeting": "Bonjour, je suis",
+    "job": "Ingénieur Logiciel",
+    "description": "Je crée des solutions numériques élégantes et performantes avec une attention particulière aux détails et à l'expérience utilisateur.",
+    "seeProjects": "Voir mes projets",
+    "contactMe": "Me contacter"
+  },
+  "About": {
+    "phrase1": " Diplômé de l’Université de Béjaïa, je suis passionné par le développement logiciel et l’intelligence artificielle, avec une forte volonté d’apporter des solutions innovantes et efficaces.",
+    "phrase2": " Je maîtrise plusieurs frameworks et technologies, et j’ai la capacité de m’adapter rapidement aux nouveaux environnements techniques.",
+    "phrase3": " Curieux et motivé, je cherche constamment à élargir mes compétences et à transformer les idées en projets concrets à forte valeur ajoutée.",
+    "phrase4":"Télécharger mon CV",
+    "phrase5":"À Propos de Moi"
+
+  },
+  "Skills": {
+    "title": "Mes Compétences",
+    "phrase":"Technologies et outils que j’utilise pour créer des solutions performantes et évolutives" 
+    
+  },
+  "contact": {
+    "phrase1": "  HAMENNI RAYAN ",
+    "phrase2":"Contactez-Moi",
+    "phrase3":"Votre partenaire digital de confiance.",
+    "phrase4":"Développeur Fullstack"
+
+  },"projects": { 
+  "title": "Mes Projets",
+  "phrase1": "Une sélection de mes réalisations récentes, alliant design élégant et performance technique.",
+  "phrase2": "Demo",
+  "phrase3": "Code",
+
+  "title1": "Gestion d’Expédition – Général Emballage",
+  "description1": "Application web de gestion d’expédition permettant le suivi des commandes, des camions, des produits et des palettes.",
+
+  "title2": "Gestion des Soutenances – Université",
+  "description2": "Application web de gestion automatique des soutenances permettant la planification intelligente des jurys, l’attribution des salles, la gestion des étudiants et le suivi des créneaux.",
+
+  "title3": "Site Vitrine – Kussor Immobilière",
+  "description3": "Site vitrine simple et professionnel pour l’agence Kussor Immobilière, présentant leurs services et leurs informations de contact.",
+
+  "title4": "AI Meeting Summarizer",
+  "description4": "Application web intelligente permettant d’enregistrer des réunions, d’en obtenir une transcription automatique, un résumé clair, et une liste de tâches à réaliser générée par l’IA. [en cours]"
+}
+
+}
