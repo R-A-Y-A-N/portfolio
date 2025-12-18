@@ -9,18 +9,18 @@ const Projects = () => {
       title: t("title1"),
       description: t( "description1"),
       technologies: ["Next.js", "Express.js", "Tailwind CSS", "MySQL"],
-      image: "/images/generall/generall.png",
+      image: "/images/generall.png",
     },{
       title: t("title2"),
       description: t( "description2"),
       technologies: ["Php", "postgreSQL", "Bootstrap"],
-      image: "/images/soutenance/s1.png",
+      image: "/images/s1.png",
     },
      {
       title: t("title3"),
       description: t( "description3"),
       technologies: ["React", "Next.js", "Tailwind CSS"],
-      image: "/images/kossur/k1.png",
+      image: "/images/k1.png",
       
     },
     
@@ -99,17 +99,7 @@ const Projects = () => {
                     ))}
                   </div>
                   <div className="flex gap-4">
-                    <motion.a
-                      
-                      className="flex items-center gap-2 text-[#0a0a09] hover:text-[#D4AF37] dark:text-[#F5F5F5] dark:hover:text-[#D4AF37] transition-colors duration-300"
-                      whileHover={{ scale: 1.05 }}
-                      whileTap={{ scale: 0.95 }}
-                    >
-                      <span>Démo</span>
-                      <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
-                        <path fillRule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zM9.555 7.168A1 1 0 008 8v4a1 1 0 001.555.832l3-2a1 1 0 000-1.664l-3-2z" clipRule="evenodd" />
-                      </svg>
-                    </motion.a>
+                    
                     <motion.a
                       href="https://github.com/R-A-Y-A-N"
                       className="flex items-center gap-2 text-[#0a0a09] hover:text-[#D4AF37] dark:text-[#F5F5F5] dark:hover:text-[#D4AF37] transition-colors duration-300"
