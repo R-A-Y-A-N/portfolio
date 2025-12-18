@@ -20,7 +20,7 @@ const Projects = () => {
       title: t("title3"),
       description: t( "description3"),
       technologies: ["React", "Next.js", "Tailwind CSS"],
-      image: "/images/ia.webp",
+      image: "/images/k1.png",
       
     },
     
