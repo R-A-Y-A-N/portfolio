@@ -9,12 +9,12 @@ const Projects = () => {
       title: t("title1"),
       description: t( "description1"),
       technologies: ["Next.js", "Express.js", "Tailwind CSS", "MySQL"],
-      image: "/images/generall.png",
+      image: "/images/generall.PNG",
     },{
       title: t("title2"),
       description: t( "description2"),
       technologies: ["Php", "postgreSQL", "Bootstrap"],
-      image: "/images/s1.png",
+      image: "/images/s1.PNG",
     },
      {
       title: t("title3"),
