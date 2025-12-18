@@ -14,7 +14,7 @@ const Projects = () => {
       title: t("title2"),
       description: t( "description2"),
       technologies: ["Php", "postgreSQL", "Bootstrap"],
-      image: "rayan\public\images\s1.png",
+      image: "/images/s1.png",
     },
      {
       title: t("title3"),
