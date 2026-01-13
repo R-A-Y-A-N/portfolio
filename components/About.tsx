@@ -32,17 +32,19 @@ export default function About() {
             </div>
 
             <div className="mt-8 flex justify-center">
-              <motion.a
-                href="/cv.pdf"
-                download
-                className="flex items-center gap-2 dark:bg-[#000000] dark:hover:bg-[#ffffff] bg-[#ffffff] hover:bg-[#000000] border border-[#2A2A2A] text-[#D4AF37] font-medium py-3 px-6 rounded-full transition-all duration-300"
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-              >
-                <span>{t("phrase4")}</span>
-                <HiDownload />
-              </motion.a>
-            </div>
+  <motion.a
+    href="/cv.pdf"
+    download
+    className="flex items-center gap-3 dark:bg-[#000000] dark:hover:bg-[#ffffff] bg-[#ffffff] hover:bg-[#000000] border border-[#2A2A2A] text-[#D4AF37] font-bold text-2xl py-3 px-6 rounded-full transition-all duration-300 shadow-lg"
+    whileHover={{ scale: 1.1, textShadow: "0 0 8px #D4AF37" }}
+    whileTap={{ scale: 0.95 }}
+    animate={{ opacity: [1, 0.5, 1], transition: { repeat: Infinity, duration: 1.2, repeatType: "loop" } }}
+  >
+    <span>{t("phrase4")}</span>
+    <HiDownload className="w-6 h-6" />
+  </motion.a>
+</div>
+
           </motion.div>
 
           
