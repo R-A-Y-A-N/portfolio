@@ -59,7 +59,7 @@ const Hero = () => {
               </motion.div>
             </div>
           </motion.div>
-           {/* IMAGE SECTION */}
+          
           <motion.div
             initial={{ opacity: 0, scale: 0.8 }}
             animate={{ opacity: 1, scale: 1 }}
@@ -68,26 +68,26 @@ const Hero = () => {
           >
             <div className="relative w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg h-80 sm:h-96 lg:h-[500px] rounded-2xl overflow-hidden border-2 border-[#D4AF37] shadow-xl shadow-[#D4AF37]/20">
               <div className="absolute inset-0 dark:bg-[#0D0D0D]/90 bg-[#ffffff] opacity-80" />
-              {/* Light mode image */}
+              
 <Image
   src="/images/photo2.png"
   alt={t("job")}
   fill
   className="object-cover rounded-xl p-4 dark:hidden"
   priority
-  quality={100}
-  sizes="100vw"
+  quality={75}
+  sizes="(max-width: 768px) 100vw, 1200px"
 />
 
-{/* Dark mode image */}
+
 <Image
-  src="/images/photo n.png"
+  src="/images/photon.png"
   alt={t("job")}
   fill
   className="object-cover rounded-xl p-4 hidden dark:block"
   priority
-  quality={100}
-  sizes="100vw"
+  quality={75}
+   sizes="(max-width: 768px) 100vw, 1200px"
 />
 
             </div>

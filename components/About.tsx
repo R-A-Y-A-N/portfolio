@@ -32,17 +32,45 @@ export default function About() {
             </div>
 
             <div className="mt-8 flex justify-center">
-  <motion.a
-    href="/cv.pdf"
-    download
-    className="flex items-center gap-3 dark:bg-[#000000] dark:hover:bg-[#ffffff] bg-[#ffffff] hover:bg-[#000000] border border-[#2A2A2A] text-[#D4AF37] font-bold text-2xl py-3 px-6 rounded-full transition-all duration-300 shadow-lg"
-    whileHover={{ scale: 1.1, textShadow: "0 0 8px #D4AF37" }}
-    whileTap={{ scale: 0.95 }}
-    animate={{ opacity: [1, 0.5, 1], transition: { repeat: Infinity, duration: 1.2, repeatType: "loop" } }}
-  >
-    <span>{t("phrase4")}</span>
-    <HiDownload className="w-6 h-6" />
-  </motion.a>
+ <motion.a
+  href="/cv.pdf"
+  download
+  className="
+    flex items-center justify-center gap-2
+    bg-[#ffffff] dark:bg-[#000000]
+    hover:bg-[#000000] dark:hover:bg-[#ffffff]
+    border border-[#2A2A2A]
+    text-[#D4AF37]
+    font-bold
+
+    text-sm sm:text-base md:text-xl lg:text-2xl
+    py-2 px-4 sm:py-3 sm:px-6 md:py-4 md:px-8
+
+    rounded-full
+    transition-all duration-300
+    shadow-lg
+  "
+  whileHover={{
+    scale: 1.08,
+    textShadow: "0 0 8px #D4AF37",
+  }}
+  whileTap={{ scale: 0.95 }}
+  animate={{
+    opacity: [1, 0.6, 1],
+    transition: {
+      repeat: Infinity,
+      duration: 1.4,
+      ease: "easeInOut",
+    },
+  }}
+>
+  <span className="whitespace-nowrap">
+    {t("phrase4")}
+  </span>
+
+  <HiDownload className="w-4 h-4 sm:w-5 sm:h-5 md:w-6 md:h-6" />
+</motion.a>
+
 </div>
 
           </motion.div>
